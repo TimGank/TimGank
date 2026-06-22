@@ -22,19 +22,6 @@
   - **AI Photo Finder** — сервис поиска фотографий с мероприятий по лицам сквозь массивы публичных облачных хранилищ.
 - ⚡ **Вне кода:** Пишу олдскульный джаз-рэп, катаю на лонгборде и делаю кастомную лазерную гравировку.
 
----
-
-### 🛠 Мой стек
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
 
 ### 📊 Статистика GitHub
 
