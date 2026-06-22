@@ -22,10 +22,4 @@
   - **AI Photo Finder** — сервис поиска фотографий с мероприятий по лицам сквозь массивы публичных облачных хранилищ.
 - ⚡ **Вне кода:** Пишу олдскульный джаз-рэп, катаю на лонгборде и делаю кастомную лазерную гравировку.
 
-
-### 📊 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_ЮЗЕРНЕЙМ]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_ЮЗЕРНЕЙМ]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+---
