@@ -4,8 +4,8 @@
 ### Студент IT-специальности | Vibe coder | Python
 
 <p align="center">
-  <a href="https://t.me/[ТВОЙ_ТЕЛЕГРАМ]"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:[ТВОЙ_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/TimGank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:tima.gankin@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://[ТВОЕ_ПОРТФОЛИО_ИЛИ_САЙТ]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"></a>
 </p>
 
